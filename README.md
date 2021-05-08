@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kodecaine
+- 👋 Hi, I’m Sohrab Ahmed Khan
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning FrontEnd Web Development
-- 💞️ I’m looking to collaborate on Anythinng related to web dev
+- 💞️ I’m looking to collaborate on Anythinng related to Frontend Development and UI/UX Design
 - 📫 How to reach me in/khaansohraab
 
 <!---
